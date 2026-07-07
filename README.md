@@ -6,9 +6,8 @@ Built with OpenCV + MediaPipe Hands for real-time, GPU-free hand tracking — no
 
 ---
 #DEMO
-## 🎥 Demo
 
-![GestureCanvas Demo](demo.gif.mp4)
+![GestureCanvas Demo](demo.gif)
 ## ✨ Features
 
 - **Live webcam tracking** via `cv2.VideoCapture()` with a real-time FPS counter
