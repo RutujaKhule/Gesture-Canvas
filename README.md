@@ -29,28 +29,6 @@ No Flask, no web server, no browser — just `python main.py`.
 
 ---
 
-## 📸 Screenshots
-
-> Add your own captures here after running the app — press `S` while drawing to save a PNG straight into `screenshots/`.
-
-| Drawing in progress | Neon glow close-up | Help overlay |
-|---|---|---|
-| `screenshots/example_drawing.png` | `screenshots/example_glow.png` | `screenshots/example_help.png` |
-
----
-
-## 🛠 Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Language | Python 3.9+ |
-| Computer Vision | OpenCV |
-| Hand Tracking | MediaPipe Hands |
-| Numerical | NumPy |
-| OCR | Tesseract via `pytesseract` |
-| Voice | `SpeechRecognition` + `PyAudio` (Google Web Speech API) |
-
----
 
 ## 📦 Installation
 
